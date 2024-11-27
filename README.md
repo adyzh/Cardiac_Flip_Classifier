@@ -1,7 +1,7 @@
 # Cardiac_and_Full-Lung_CT_Classifier
 
 A General Algorithm for Cardiac and Full-Lung CT Flip Detection using Quadrant Pixel Summation
-For cardiac scans, there exists no clean up directory: Manually check for 160 scans for trainning. Goal: creat a function such that given mask, the function outputs axes to flip on if mask indicates potential flipping.
+For cardiac scans, there exists no clean up directory: Manually check for 160 scans for trainning. Goal: create a function such that given mask, the function outputs axes to flip on if mask indicates potential flipping.
 
 Data Preparation
 
